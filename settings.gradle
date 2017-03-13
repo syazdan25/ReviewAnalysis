@@ -1,1 +1,3 @@
 include ':app'
+//include 'stanfordcorenlp'
+//project(':stanfordcorenlp').projectDir = new File('edu.stanford.nlp:stanford-corenlp:3.7.0')

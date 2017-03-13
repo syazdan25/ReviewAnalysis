@@ -6,6 +6,7 @@ import android.app.*;
 import android.os.*;
 import android.view.*;
 import android.widget.*;
+import edu.stanford.nlp.ling.*;
 
 public class MainActivity extends AppCompatActivity {
 
